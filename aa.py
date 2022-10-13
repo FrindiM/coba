@@ -1,0 +1,1 @@
+print("frindi mangimbulude")
