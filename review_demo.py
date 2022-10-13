@@ -15,7 +15,7 @@ import dlib
 from scipy.spatial import distance
 from imutils import face_utils
 
-#bisa yokk frindi
+#bisa yokk frindi mangimbulude
 
 #Functions===========================================================
 
