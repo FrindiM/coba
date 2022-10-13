@@ -1,1 +1,1 @@
-print("frindi mangimbulude")
+print("frindi mangimbulude") 
